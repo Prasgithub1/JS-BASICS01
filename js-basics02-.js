@@ -90,25 +90,25 @@ console.log(Prasanna)
   "Indian National cricket team:"[
     {
       "Tests:"[
-       "Played": "563",
-       "Won": "168",
-       "Lost": "174",
+       "Played": 563,
+       "Won": 168,
+       "Lost": 174,
        "Championship":"Runners in 2021",
       ]
     }
     {
       "ODI's:"[
-       "Played": "1020",
-       "Won": "523",
-       "Lost": "436",
+       "Played": 1020,
+       "Won": 523,
+       "Lost": 436,
        "Championship":"Winners in 1983 & 2011",
       ]
     }
     {
       "T20's:"[
-       "Played": "193",
-       "Won": "123",
-       "Lost": "61",
+       "Played": 193,
+       "Won": 123,
+       "Lost": 61,
        "Championship":"Winners in 2007",
       ]
     }
@@ -116,37 +116,37 @@ console.log(Prasanna)
        "Players:"
        [
        "Name": "Rohit Sharma",
-       "Age": "35",
+       "Age": 35,
        "Position": "Captain",
        "Format":"Tests,ODIs&T20s",
       ]
       [
         "Name": "KL Rahul",
-        "Age": "32",
+        "Age": 32,
         "Position": "Vice-Captain",
         "Format":"Tests,ODIs&T20s",
       ]
       [
         "Name": "Virat Kohli",
-        "Age": "34",
+        "Age": 34,
         "Position": "Batsman",
         "Format":"Tests,ODIs&T20s",
       ]
       [
         "Name": "Rishab Pant",
-        "Age": "26",
+        "Age": 26,
         "Position": "Wicket-keeper",
         "Format":"Tests,ODIs&T20s",
       ]
       [
         "Name": "R Ashwin",
-        "Age": "36",
+        "Age": 36,
         "Position": "Spin-Bowler",
         "Format":"Tests,ODIs&T20s",
       ]
       [
         "Name": "M Siraj",
-        "Age": "27",
+        "Age": 27,
         "Position": "Fast-Bowler",
         "Format":"Tests,ODIs&T20s",
       ]
